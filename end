@@ -1,0 +1,36 @@
+[33mcommit 0a379878a980dc06d44db23ae454dc933dfc177a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morifin/master[m[33m)[m
+Merge: e4014ea 818db9c
+Author: Amile <amilekunene91@gmail.com>
+Date:   Fri Mar 29 16:37:35 2024 +0200
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 818db9cef9b14d312b99ada63792389fcf5d475f[m
+Author: Amile <amilekunene91@gmail.com>
+Date:   Fri Mar 29 16:28:39 2024 +0200
+
+    added new image
+
+[33mcommit e4014eae3217f10397bdff70f8ca297cc04edc97[m[33m ([m[1;32memergency-fix[m[33m)[m
+Author: Amile <amilekunene91@gmail.com>
+Date:   Fri Mar 29 16:11:50 2024 +0200
+
+    updated index.html with emergency fix
+
+[33mcommit c57979b03707ed36684bdf46c2dfa1fd4c1fa1b8[m
+Author: Amile <amilekunene91@gmail.com>
+Date:   Fri Mar 29 15:40:59 2024 +0200
+
+    Added image to hello world
+
+[33mcommit b28c8ffcd6d49faa745868ee1e7c8ee4266f8a17[m
+Author: unknown <amilekunene91@gmail.com>
+Date:   Fri Mar 29 14:51:11 2024 +0200
+
+    added a new line in index.html
+
+[33mcommit cacbb21f773753cccaf6f6048cad9848dd301cc7[m
+Author: unknown <amilekunene91@gmail.com>
+Date:   Fri Mar 29 14:18:53 2024 +0200
+
+    First release of hello world
